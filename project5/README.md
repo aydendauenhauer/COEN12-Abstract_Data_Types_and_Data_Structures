@@ -1,0 +1,1 @@
+This project defines a generic set ADT implemented as a hash table with linear probing and a quicksort-based getElements function for returning sorted elements, and a unique driver program that uses this set to count total vs distinct words in one or two text files and optionally list the remaining words.
