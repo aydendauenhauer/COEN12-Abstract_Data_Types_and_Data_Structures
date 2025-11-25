@@ -1,0 +1,1 @@
+This project implements a Huffman coding compressor that counts character frequencies, builds a Huffman tree with a priority-queue binary heap, packs the encoded bits into a compressed file, and includes a separate driver that uses the same priority queue to sort integers read from standard input.
