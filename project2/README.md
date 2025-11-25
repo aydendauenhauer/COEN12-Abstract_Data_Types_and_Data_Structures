@@ -1,0 +1,1 @@
+This lab implements a set abstract data type using both unsorted and sorted array-based representations and uses driver programs to count distinct words, track words with odd-occurrence parity, and compare their performance on large text files.
