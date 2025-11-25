@@ -1,0 +1,1 @@
+This project implements a generic hash-table–based set ADT built on linked lists and provides drivers to count and manipulate distinct words in text files and to radix-sort non-negative integers read from standard input.
